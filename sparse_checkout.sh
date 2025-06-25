@@ -1,6 +1,6 @@
 infrastructure_version=terraform   #options: terraform / bicep 
 project_type=classical      #options: classical / cv / nlp
-mlops_version=aml-cli-v2   #options: aml-cli-v2 / python-sdk-v1 / python-sdk-v2 / rai-aml-cli-v2
+mlops_version=python-sdk-v2   #options: aml-cli-v2 / python-sdk-v1 / python-sdk-v2 / rai-aml-cli-v2
 orchestration=azure-devops #options: github-actions / azure-devops
 git_folder_location='<local path>'   #replace with the local root folder location where you want to create the project folder
 project_name=Mlops-Test   #replace with your project name
